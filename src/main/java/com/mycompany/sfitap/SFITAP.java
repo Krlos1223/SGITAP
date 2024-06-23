@@ -36,6 +36,7 @@ public class SFITAP {
                 System.out.println("userid:" + userid);
                 System.out.println("name:" + name);
                 System.out.println("lastName:" + lastName);
+                System.out.println("lastName:" + lastName);
                 System.out.println("");
             }
             // The newInstance() call is a work around for some
